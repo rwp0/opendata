@@ -1,0 +1,6 @@
+* opendata
+  perl client access to [[https://opendata.az/][opendata.az]] api
+** tree
+    - lib :: modules (class)
+    - eg :: program (sample) (object)
+    - bin :: scripts (experimental) (tk)
